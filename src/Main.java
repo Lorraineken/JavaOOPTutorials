@@ -2,10 +2,14 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-      Tree myFavoriteOakTree = new Tree(25,
+      Tree myFavoriteOakTree = new Tree(125,
               5,TreeType.OAK);
 
-      System.out.println(myFavoriteOakTree.treeType);
+      Tree myFavoriteMapleTree = new Tree(90,
+              30,TreeType.MAPLE);
 
+     // System.out.println(myFavoriteOakTree.treeType);
+
+        myFavoriteOakTree.announceTallTree();
     }
 }
