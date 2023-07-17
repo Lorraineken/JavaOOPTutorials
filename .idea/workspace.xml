@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bcb7f90-a245-4093-8e22-9d14f38c4fab" name="Changes" comment="" />
+    <list default="true" id="7bcb7f90-a245-4093-8e22-9d14f38c4fab" name="Changes" comment="Added a constructor to Tree class and grow behaviour">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Sgyu4K5FlJNtVERPO5Op8erc23" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,14 +47,45 @@
       <option name="presentableId" value="Default" />
       <updated>1689582741360</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Tree Java Class">
+      <option name="closed" value="true" />
+      <created>1689582985829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689582985829</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added TreeType enum">
+      <option name="closed" value="true" />
+      <created>1689583297371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583297371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added a constructor to Tree class and grow behaviour">
+      <option name="closed" value="true" />
+      <created>1689583735818</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583735819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Tree Java Class" />
+    <MESSAGE value="Added TreeType enum" />
+    <MESSAGE value="Added a constructor to Tree class and grow behaviour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a constructor to Tree class and grow behaviour" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
